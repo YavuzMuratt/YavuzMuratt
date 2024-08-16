@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Internet made coder
 -------------------
 
-I've been learning programming for 1 year. Started with Ruby in my school and went on with C, Python, and Java basics. I'm currently focused on Python and it's libraries like Pandas, Tensorflow, Numpy.
+I've been learning programming for 2 year. Started with Ruby in my school and went on with C, Python, and Java basics. I'm currently focused on Python and it's libraries like Pandas, Tensorflow, Numpy.
 
 * 🌍  I'm based in [REDACTED]
 * 🧠  I'm learning Deep Learning and Flutter
