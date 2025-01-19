@@ -44,4 +44,4 @@ src="https://img.shields.io/github/followers/YavuzMuratt?logo=github&style=for-t
 <a href="http://www.github.com/YavuzMuratt"><img src="https://github-readme-stats.vercel.app/api?username=YavuzMuratt&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="YavuzMuratt's GitHub stats" /></a> 
 
 
-![MACH](https://user-images.githubusercontent.com/115803232/230901435-ea10e0a5-0964-4ce3-a3e8-711d919b7610.png)       
+![MACH](https://user-images.githubusercontent.com/115803232/230901435-ea10e0a5-0964-4ce3-a3e8-711d919b7610.png)        
